@@ -63,3 +63,7 @@ Eliminamos la rama en local mediante el comando "git branch -d (nombre de la ram
 Desde el "git log" se visualiza de la siguiente manera:
 
 ![Novena captura](imagenes/9.png)
+
+Desde el plugin de VSC se visualiza de la siguiente manera:
+
+![Décima captura](imagenes/10.png)
