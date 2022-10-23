@@ -57,3 +57,9 @@ Si utilizamos "git log" podemos ver que solo refleja el commit que hemos realiza
 Eliminamos la rama en local mediante el comando "git branch -d (nombre de la rama)".
 
 ![Octava captura](imagenes/8.png)
+
+### **4.8**
+
+Desde el "git log" se visualiza de la siguiente manera:
+
+![Novena captura](imagenes/9.png)
